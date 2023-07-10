@@ -3,7 +3,7 @@
 ### 👋 Hello my name is Rumpel, i actively strive for self-improvement and constantly learn new technologies in my field. 
 
 
-![Header](https://github.com/rumpelovs/rumpelovs/blob/main/assets/Fot.jpg)
+
 ### 🌱 I am working on various projects and constantly learning new programming languages. My ability to transform ordinary objects into keyboards and write code in unconventional ways is one of my talents.
 
 
