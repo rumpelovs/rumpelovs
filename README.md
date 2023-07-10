@@ -16,9 +16,7 @@
 ![C#](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=007EE5)
 ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b&logoColor=4D4DFF)
 
-#### ⚡ Fun fact ⚡
 
-##### Programmers have a talent for turning everyday objects into keyboards, coding in unconventional ways.
 
 #### 📫 Follow me 📫
 
@@ -26,3 +24,7 @@
 [![Telegram](https://img.shields.io/badge/-TELEDRAM-000?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/rumpel_ovs)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/rumpel_ovs?igshid=MmIzYWVlNDQ5Yg==)
 
+____________________________________
+#### ⚡ Fun fact ⚡
+
+##### Programmers have a talent for turning everyday objects into keyboards, coding in unconventional ways.
