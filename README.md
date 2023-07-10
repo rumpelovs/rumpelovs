@@ -13,3 +13,8 @@
 ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b&logoColor=4D4DFF)
 
 #### Follow me
+
+[![VK](https://img.shields.io/badge/-VKONTAKTE-000?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/whyislait)
+[![Telegram](https://img.shields.io/badge/-TELEDRAM-000?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/rumpel_ovs)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/rumpel_ovs?igshid=MmIzYWVlNDQ5Yg==)
+
